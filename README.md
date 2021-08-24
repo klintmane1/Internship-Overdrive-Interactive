@@ -1,6 +1,8 @@
 Please read before diving into the file. Enjoy!
 
 The code and this file was written by Klint Mane on August 2021 as part of my internship at Overdrive Interactive. 
+Note that you would not be able to run the code as the code runs locally. If interested to see how it works and 
+deploys please reach out and I would be happy to provide a demonstration. 
 
 The code is divided in three main parts. 
 

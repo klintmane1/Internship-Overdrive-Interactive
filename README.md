@@ -28,6 +28,6 @@ Thirdly, it offers a forecast based on the top keywords in each category created
 is optimized for the Fortune 50 client, however it can be used on other data as well. All that would need to 
 be done is to improve the training data based on the other client keywords and categories.
 
-https://share.streamlit.io/klintmane1/internship-overdrive-interactive/main/app.py
+Click the link to take a look at the outline of the App on Streamlit: ---> https://share.streamlit.io/klintmane1/internship-overdrive-interactive/main/app.py
 
 If any questions or problems arise please reach out at klintmane1@gmail.com. 
